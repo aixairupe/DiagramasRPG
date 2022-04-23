@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T22:08:22.175Z" agent="5.0 (Windows)" etag="WZf_sSoJLEbum9HZy960" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-23T23:31:56.808Z" agent="5.0 (Windows)" etag="y61-dbIHZMQ7HzxR3J_i" version="17.4.2" type="github">
   <diagram id="0hyukC75Gv5yu3Hbwg-q" name="Page-1">
-    <mxGraphModel dx="1240" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="964" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,41 +43,110 @@
             <Array as="points">
               <mxPoint x="1170" y="200" />
               <mxPoint x="920" y="200" />
+              <mxPoint x="740" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="450" as="sourcePoint" />
-            <mxPoint x="1640" y="450" as="targetPoint" />
+            <mxPoint x="2480" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-34" value="&lt;h1 style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Nivel 2: Elementales&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Son representantes de los cuatro elementos necesarios para la vida. Se manifiestan de tres maneras distintas:&lt;br&gt;1_Forma Primordial: &lt;/font&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Generalmente la más usada, &lt;/font&gt; consiste en fenómenos climáticos.&lt;br&gt;2_Forma Espiritual: Adoptan su propia forma individual, totalmente compuesta de su propio elemento.&lt;br&gt;3_Forma Evocada/Invocada: Entran en el cuerpo de algún otro individuo, poseyéndolo y mostrando a través de él algún rasgo de su elemento.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="10" y="190" width="430" height="260" as="geometry" />
         </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-48" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-36" target="JnjtK-0AS2ZwmPKG2imy-46">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="460" />
+              <mxPoint x="840" y="460" />
+              <mxPoint x="630" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-36" target="JnjtK-0AS2ZwmPKG2imy-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="460" />
+              <mxPoint x="845" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-35" value="Espíritu de la Tierra" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="840" y="240" width="160" height="150" as="geometry" />
+          <mxGeometry x="590" y="230" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-36" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-35">
-          <mxGeometry y="30" width="160" height="120" as="geometry" />
+          <mxGeometry y="30" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-56" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-38" target="JnjtK-0AS2ZwmPKG2imy-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="720" />
+              <mxPoint x="1110" y="720" />
+              <mxPoint x="995" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-38" target="JnjtK-0AS2ZwmPKG2imy-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1050" y="720" />
+              <mxPoint x="1110" y="720" />
+              <mxPoint x="1215" y="720" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-37" value="Espíritu del Agua" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="240" width="160" height="150" as="geometry" />
+          <mxGeometry x="910" y="240" width="280" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-38" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-37">
-          <mxGeometry y="30" width="160" height="120" as="geometry" />
+          <mxGeometry y="30" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-62" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-40" target="JnjtK-0AS2ZwmPKG2imy-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1400" y="460" />
+              <mxPoint x="1375" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-66" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-40" target="JnjtK-0AS2ZwmPKG2imy-64">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1400" y="460" />
+              <mxPoint x="1580" y="460" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-39" value="Espíritu del Aire" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="240" width="160" height="150" as="geometry" />
+          <mxGeometry x="1241" y="240" width="319" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-40" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-39">
-          <mxGeometry y="30" width="160" height="120" as="geometry" />
+          <mxGeometry y="30" width="319" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-69" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-41" target="JnjtK-0AS2ZwmPKG2imy-67">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1765" y="470" />
+              <mxPoint x="1820" y="470" />
+              <mxPoint x="1805" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-74" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=17;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-42" target="JnjtK-0AS2ZwmPKG2imy-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1765" y="470" />
+              <mxPoint x="2015" y="470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-41" value="Espíritu del Fuego" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="240" width="160" height="150" as="geometry" />
+          <mxGeometry x="1600" y="240" width="330" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-42" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-41">
-          <mxGeometry y="30" width="160" height="120" as="geometry" />
+          <mxGeometry y="30" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-5" value="Árbol Ancestral" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=22;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="890" y="20" width="560" height="160" as="geometry" />
@@ -88,8 +157,56 @@
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint y="190" as="sourcePoint" />
-            <mxPoint x="1650" y="190" as="targetPoint" />
+            <mxPoint x="2470" y="190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-46" value="Espíritu de la Tierra" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="480" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-47" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-46">
+          <mxGeometry y="30" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-50" value="Espíritu de la Tierra" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="750" y="480" width="190" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-51" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-50">
+          <mxGeometry y="30" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-54" value="Espíritu del Agua" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="900" y="740" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-55" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-54">
+          <mxGeometry y="30" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-57" value="Espíritu del Agua" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="740" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-58" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-57">
+          <mxGeometry y="30" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-60" value="Espíritu del Aire" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="480" width="190" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-61" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-60">
+          <mxGeometry y="30" width="190" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-64" value="Espíritu del Aire" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="480" width="180" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-65" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-64">
+          <mxGeometry y="30" width="180" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-67" value="Espíritu del Fuego" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1710" y="740" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-68" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-67">
+          <mxGeometry y="30" width="190" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-72" value="Espíritu del Fuego" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1920" y="740" width="190" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-73" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-72">
+          <mxGeometry y="30" width="190" height="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
