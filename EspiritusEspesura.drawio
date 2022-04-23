@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T18:58:21.880Z" agent="5.0 (Windows)" version="17.4.2" etag="hnhJ5hKhKX2l9rP4HWFR" type="github"><diagram id="0hyukC75Gv5yu3Hbwg-q">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-23T19:20:20.493Z" agent="5.0 (Windows)" etag="ZKr_PrZ8TOeyOTkDFcZQ" version="17.4.2" type="github">
+  <diagram id="0hyukC75Gv5yu3Hbwg-q" name="Page-1">
+    <mxGraphModel dx="723" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-1" value="&lt;h1&gt;Nivel 1: Espíritu Primordial&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Corresponde a los Espíritus cuya existencia es Causa Primera de otras criaturas, entidades y espíritus. Por lo general, no hay más de uno por región.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="40" width="340" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
