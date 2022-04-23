@@ -1,56 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T21:10:54.817Z" agent="5.0 (Windows)" etag="5jklKS4JRr7TDHWaR0Lm" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-23T22:08:22.175Z" agent="5.0 (Windows)" etag="WZf_sSoJLEbum9HZy960" version="17.4.2" type="github">
   <diagram id="0hyukC75Gv5yu3Hbwg-q" name="Page-1">
-    <mxGraphModel dx="868" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;shape=flexArrow;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-1">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-1" value="&lt;h1&gt;Nivel 1: Espíritu Primordial&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Corresponde a los Espíritus cuya existencia es Causa Primera de otras criaturas, entidades y espíritus. Por lo general, no hay más de uno por región.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="430" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-6" target="JnjtK-0AS2ZwmPKG2imy-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="710" y="65" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-1" value="&lt;h1&gt;Nivel 1: Espíritu Primordial&lt;br&gt;&lt;/h1&gt;&lt;p&gt;Corresponde a los Espíritus cuya existencia es Causa Primera de otras criaturas, entidades y espíritus. Por lo general, no hay más de uno por región.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="340" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="120" as="sourcePoint" />
-            <mxPoint x="1640" y="120" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" target="JnjtK-0AS2ZwmPKG2imy-37">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1170" y="110" as="sourcePoint" />
+            <mxPoint x="1170" y="180" as="sourcePoint" />
             <mxPoint x="1115" y="175" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1170" y="140" />
-              <mxPoint x="1110" y="140" />
+              <mxPoint x="1170" y="200" />
+              <mxPoint x="1110" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-5" value="Árbol Ancestral" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=22;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="10" width="280" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-6" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-5">
-          <mxGeometry y="30" width="280" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" target="JnjtK-0AS2ZwmPKG2imy-39">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-6" target="JnjtK-0AS2ZwmPKG2imy-39">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1170" y="110" as="sourcePoint" />
+            <mxPoint x="1170" y="160" as="sourcePoint" />
             <mxPoint x="1335" y="175" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1170" y="140" />
-              <mxPoint x="1300" y="140" />
+              <mxPoint x="1170" y="200" />
+              <mxPoint x="1300" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;" edge="1" parent="1" target="JnjtK-0AS2ZwmPKG2imy-41">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=22;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JnjtK-0AS2ZwmPKG2imy-6" target="JnjtK-0AS2ZwmPKG2imy-41">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1170" y="110" as="sourcePoint" />
+            <mxPoint x="1170" y="160" as="sourcePoint" />
             <mxPoint x="1540" y="175" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1170" y="140" />
-              <mxPoint x="1490" y="140" />
+              <mxPoint x="1170" y="200" />
+              <mxPoint x="1490" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -58,43 +41,55 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="915" y="175" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1170" y="140" />
-              <mxPoint x="920" y="140" />
+              <mxPoint x="1170" y="200" />
+              <mxPoint x="920" y="200" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-32" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="320" as="sourcePoint" />
-            <mxPoint x="1640" y="320" as="targetPoint" />
+            <mxPoint y="450" as="sourcePoint" />
+            <mxPoint x="1640" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-34" value="&lt;h1 style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Nivel 2: Elementales&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Son representantes de los cuatro elementos necesarios para la vida. Se manifiestan de tres maneras distintas:&lt;br&gt;La primera, generalmente la más usada, llamada Forma Primordial, consiste en &lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="10" y="130" width="550" height="190" as="geometry" />
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-34" value="&lt;h1 style=&quot;font-size: 23px&quot;&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Nivel 2: Elementales&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Son representantes de los cuatro elementos necesarios para la vida. Se manifiestan de tres maneras distintas:&lt;br&gt;1_Forma Primordial: &lt;/font&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Generalmente la más usada, &lt;/font&gt; consiste en fenómenos climáticos.&lt;br&gt;2_Forma Espiritual: Adoptan su propia forma individual, totalmente compuesta de su propio elemento.&lt;br&gt;3_Forma Evocada/Invocada: Entran en el cuerpo de algún otro individuo, poseyéndolo y mostrando a través de él algún rasgo de su elemento.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="10" y="190" width="430" height="260" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-35" value="Espíritu de la Tierra" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="840" y="160" width="160" height="150" as="geometry" />
+          <mxGeometry x="840" y="240" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-36" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-35">
           <mxGeometry y="30" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-37" value="Espíritu del Agua" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="160" width="160" height="150" as="geometry" />
+          <mxGeometry x="1030" y="240" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-38" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-37">
           <mxGeometry y="30" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-39" value="Espíritu del Aire" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="160" width="160" height="150" as="geometry" />
+          <mxGeometry x="1220" y="240" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-40" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-39">
           <mxGeometry y="30" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-41" value="Espíritu del Fuego" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="160" width="160" height="150" as="geometry" />
+          <mxGeometry x="1410" y="240" width="160" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-42" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-41">
           <mxGeometry y="30" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-5" value="Árbol Ancestral" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=22;fontStyle=1;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="890" y="20" width="560" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-6" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="JnjtK-0AS2ZwmPKG2imy-5">
+          <mxGeometry y="30" width="560" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="190" as="sourcePoint" />
+            <mxPoint x="1650" y="190" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
