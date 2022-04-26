@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T13:37:48.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="CSTlGv--qULxhIQR5990" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T13:51:00.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="6NZryvLybTaosVrj_kf1" version="17.4.6" type="github">
   <diagram id="0hyukC75Gv5yu3Hbwg-q" name="Page-1">
     <mxGraphModel dx="1138" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -249,7 +249,7 @@
         <mxCell id="lDPJUMEbkOL5Li80b-ym-1" value="Driades" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" vertex="1" parent="1">
           <mxGeometry x="850" y="1600" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="lDPJUMEbkOL5Li80b-ym-2" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;shadow=0;glass=0;sketch=0;fontColor=#000000;" vertex="1" parent="lDPJUMEbkOL5Li80b-ym-1">
+        <mxCell id="lDPJUMEbkOL5Li80b-ym-2" value="Cuando un árbol anciano muere, su&#xa;alma asciende y se transmuta en &#xa;una Driade. Se diferencian según el &#xa;árbol que hayan sido en su anterior&#xa;vida, siguiendo la paleta de colores y&#xa;exhibiendo idénticas hojas.  " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;shadow=0;glass=0;sketch=0;fontColor=#000000;" vertex="1" parent="lDPJUMEbkOL5Li80b-ym-1">
           <mxGeometry y="30" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-3" value="Fatuos" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" vertex="1" parent="1">
