@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T15:58:37.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HQwcOs8tfHUsJcpuzj6O" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T16:33:55.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="_ypFCWuhkPYDt306cdzd" version="17.4.6" type="github">
   <diagram id="0hyukC75Gv5yu3Hbwg-q" name="Page-1">
-    <mxGraphModel dx="1778" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="836" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,6 +224,9 @@
         </mxCell>
         <mxCell id="q1trLhBGMm-AM65xYkC9-14" value="Faes" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" parent="1" vertex="1">
           <mxGeometry x="520" y="1480" width="260" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lDPJUMEbkOL5Li80b-ym-13" value="&lt;h6&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Se alimentan de los excesos de Efimeria. Se dividen según su alimento, tomando algunos elementos que estén relacionados.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-40;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;verticalAlign=top;horizontal=1;align=left;" vertex="1" parent="q1trLhBGMm-AM65xYkC9-14">
+          <mxGeometry y="30" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-1" value="Driades" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" vertex="1" parent="1">
           <mxGeometry x="810" y="1480" width="260" height="150" as="geometry" />
