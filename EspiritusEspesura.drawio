@@ -1,15 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T14:55:33.218Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="L9wU5SgQgk03PU5o9Q8Q" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T15:15:36.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="THHBeT5Idd3ULfh2mXDq" version="17.4.6" type="github">
   <diagram id="0hyukC75Gv5yu3Hbwg-q" name="Page-1">
     <mxGraphModel dx="1778" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="q1trLhBGMm-AM65xYkC9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="JnjtK-0AS2ZwmPKG2imy-40" target="JnjtK-0AS2ZwmPKG2imy-60" edge="1">
+        <mxCell id="q1trLhBGMm-AM65xYkC9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="JnjtK-0AS2ZwmPKG2imy-60" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1410" y="1200" />
               <mxPoint x="1615" y="1200" />
             </Array>
+            <mxPoint x="1409.5" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q1trLhBGMm-AM65xYkC9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" source="JnjtK-0AS2ZwmPKG2imy-41" target="JnjtK-0AS2ZwmPKG2imy-67" edge="1">
@@ -20,29 +21,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="q1trLhBGMm-AM65xYkC9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" source="JnjtK-0AS2ZwmPKG2imy-40" target="JnjtK-0AS2ZwmPKG2imy-64" edge="1">
+        <mxCell id="q1trLhBGMm-AM65xYkC9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" target="JnjtK-0AS2ZwmPKG2imy-64" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1810" y="1210" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1410" y="1200" />
               <mxPoint x="1855" y="1200" />
             </Array>
+            <mxPoint x="1409.5" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q1trLhBGMm-AM65xYkC9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="JnjtK-0AS2ZwmPKG2imy-36" target="JnjtK-0AS2ZwmPKG2imy-46" edge="1">
+        <mxCell id="q1trLhBGMm-AM65xYkC9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" target="JnjtK-0AS2ZwmPKG2imy-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="1190" />
               <mxPoint x="665" y="1190" />
             </Array>
+            <mxPoint x="730" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q1trLhBGMm-AM65xYkC9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="JnjtK-0AS2ZwmPKG2imy-36" target="JnjtK-0AS2ZwmPKG2imy-50" edge="1">
+        <mxCell id="q1trLhBGMm-AM65xYkC9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" target="JnjtK-0AS2ZwmPKG2imy-50" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="1190" />
               <mxPoint x="905" y="1190" />
             </Array>
+            <mxPoint x="730" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-1" value="&lt;h1&gt;Nivel 1: Espíritu Primordial&lt;br&gt;&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 17px&quot;&gt;Corresponde a los Espíritus cuya existencia es Causa Primera de otras criaturas, entidades y espíritus. Por lo general, no hay más de uno por región.&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -60,20 +64,11 @@
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-35" value="Espíritu de la Tierra" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#FF8000;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="580" y="230" width="300" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-36" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-35" vertex="1">
-          <mxGeometry y="30" width="300" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-37" value="Espíritu del Agua" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#3399FF;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="910" y="230" width="310" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-38" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-37" vertex="1">
-          <mxGeometry y="30" width="310" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-39" value="Espíritu del Aire" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#99FF33;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1250" y="230" width="319" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-40" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-39" vertex="1">
-          <mxGeometry y="30" width="319" height="120" as="geometry" />
         </mxCell>
         <mxCell id="q1trLhBGMm-AM65xYkC9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" source="JnjtK-0AS2ZwmPKG2imy-41" target="JnjtK-0AS2ZwmPKG2imy-72" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -86,14 +81,11 @@
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-41" value="Espíritu del Fuego" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#FF3333;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="1600" y="230" width="330" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-42" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-41" vertex="1">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-42" value="" style="align=left;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-41" vertex="1">
           <mxGeometry y="30" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-5" value="Árbol Ancestral" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=22;fontStyle=1;strokeWidth=5;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;glass=0;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="1265" y="10" width="560" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-6" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-5" vertex="1">
-          <mxGeometry y="30" width="560" height="130" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-43" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -104,53 +96,53 @@
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-46" value="Tortuga Anciana" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="570" y="1230" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-47" value="" style="align=left;strokeColor=#b46504;fillColor=#fad7ac;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-46" vertex="1">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-47" value="" style="align=left;strokeColor=#b46504;fillColor=#fad7ac;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="JnjtK-0AS2ZwmPKG2imy-46" vertex="1">
           <mxGeometry y="30" width="190" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-50" value="Lobo Pardo" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="810" y="1235" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-99" value="" style="align=left;strokeColor=#b46504;fillColor=#fad7ac;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-50" vertex="1">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-99" value="" style="align=left;strokeColor=#b46504;fillColor=#fad7ac;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="JnjtK-0AS2ZwmPKG2imy-50" vertex="1">
           <mxGeometry y="30" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-54" value="Gran Sapo " style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="1050" y="1230" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-55" value="" style="align=left;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-54" vertex="1">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-55" value="" style="align=left;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="JnjtK-0AS2ZwmPKG2imy-54" vertex="1">
           <mxGeometry y="30" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-57" value="Rana Nocturna" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
           <mxGeometry x="1290" y="1230" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-58" value="" style="align=left;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-57" vertex="1">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-58" value="" style="align=left;strokeColor=#10739e;fillColor=#b1ddf0;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="JnjtK-0AS2ZwmPKG2imy-57" vertex="1">
           <mxGeometry y="30" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-60" value="Lechuza Pálida" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1520" y="1230" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-61" value="" style="align=left;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-60" vertex="1">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-61" value="" style="align=left;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="JnjtK-0AS2ZwmPKG2imy-60" vertex="1">
           <mxGeometry y="30" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-64" value="Águila Radiante" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1760" y="1230" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-65" value="" style="align=left;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-64" vertex="1">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-65" value="" style="align=left;strokeColor=#82b366;fillColor=#d5e8d4;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="JnjtK-0AS2ZwmPKG2imy-64" vertex="1">
           <mxGeometry y="30" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-67" value="Joven Oso" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1990" y="1230" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-68" value="" style="align=left;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-67" vertex="1">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-68" value="" style="align=left;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="JnjtK-0AS2ZwmPKG2imy-67" vertex="1">
           <mxGeometry y="30" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-72" value="Ciervo Tenaz" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2220" y="1230" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-73" value="" style="align=left;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" parent="JnjtK-0AS2ZwmPKG2imy-72" vertex="1">
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-73" value="" style="align=left;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="JnjtK-0AS2ZwmPKG2imy-72" vertex="1">
           <mxGeometry y="30" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-79" value="&lt;h1 style=&quot;font-size: 18px&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Nivel 5: Guías Totémicos&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 18px&quot;&gt;Cuando un habitante de la Espesura muere, se convierte en Espíritu del lugar y pasa al plano Efimérico. Algunos de ellos, además, son elegidos como Guías Totémicos (ya sea por voto popular, por decisión de alguno de los Elementales o como recompensa por alguna hazaña). Deben velar por los habitantes espirituales de la Espesura, y también son los que ofician de canal entre el Plano Efimérico y el de las Criaturas Materiales, atendiendo al llamado de algunas criaturas vivas muy eventualmente.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=18;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1190" width="450" height="320" as="geometry" />
+          <mxGeometry x="10" y="1190" width="450" height="270" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-80" value="Espíritu de la Renovación" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1970" y="230" width="440" height="150" as="geometry" />
@@ -173,9 +165,6 @@
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-87" value="Espíritu Guardián" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=22;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=0;fillColor=#FF33FF;" parent="1" vertex="1">
           <mxGeometry x="690" y="470" width="700" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-88" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=0;" parent="JnjtK-0AS2ZwmPKG2imy-87" vertex="1">
-          <mxGeometry y="30" width="700" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-89" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="2330" as="sourcePoint" />
@@ -197,9 +186,6 @@
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-92" value="Espíritu Interventor" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=22;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=0;fillColor=#990000;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="1660" y="470" width="690" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-93" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=0;" parent="JnjtK-0AS2ZwmPKG2imy-92" vertex="1">
-          <mxGeometry y="30" width="690" height="260" as="geometry" />
-        </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-94" value="&lt;h1&gt;&lt;font style=&quot;font-size: 23px&quot;&gt;Nivel 3: Balanceadores&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;En esta categoría solamente encontramos a dos agentes: por un lado, el Espíritu Guardián, que se encarga de preservan; y, por otro, el Espíritu Interventor, que se encarga de dinamizar. Para ambos casos se trata de un título al que pueden ascender los Espíritus que sean dignos. Los elige el Árbol Ancestral&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="10" y="440" width="470" height="340" as="geometry" />
         </mxCell>
@@ -209,23 +195,22 @@
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-96" value="Reina/Rey de los Espíritus" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=22;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=0;fillColor=#00994D;" parent="1" vertex="1">
           <mxGeometry x="1310" y="850" width="550" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-97" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=0;" parent="JnjtK-0AS2ZwmPKG2imy-96" vertex="1">
-          <mxGeometry y="30" width="550" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="q1trLhBGMm-AM65xYkC9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="JnjtK-0AS2ZwmPKG2imy-38" target="JnjtK-0AS2ZwmPKG2imy-54" edge="1">
+        <mxCell id="q1trLhBGMm-AM65xYkC9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" target="JnjtK-0AS2ZwmPKG2imy-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1065" y="1190" />
               <mxPoint x="1145" y="1190" />
             </Array>
+            <mxPoint x="1065" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="q1trLhBGMm-AM65xYkC9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="JnjtK-0AS2ZwmPKG2imy-38" target="JnjtK-0AS2ZwmPKG2imy-57" edge="1">
+        <mxCell id="q1trLhBGMm-AM65xYkC9-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" target="JnjtK-0AS2ZwmPKG2imy-57" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1065" y="1190" />
               <mxPoint x="1385" y="1190" />
             </Array>
+            <mxPoint x="1065" y="380" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="q1trLhBGMm-AM65xYkC9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JnjtK-0AS2ZwmPKG2imy-81" target="JnjtK-0AS2ZwmPKG2imy-87" edge="1">
@@ -235,13 +220,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q1trLhBGMm-AM65xYkC9-13" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;Nivel 6: Entidades Menores&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1470" width="480" height="230" as="geometry" />
+          <mxGeometry x="10" y="1480" width="480" height="180" as="geometry" />
         </mxCell>
         <mxCell id="q1trLhBGMm-AM65xYkC9-14" value="Faes" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" parent="1" vertex="1">
           <mxGeometry x="520" y="1480" width="260" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="q1trLhBGMm-AM65xYkC9-15" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;shadow=0;glass=0;sketch=0;fontColor=#000000;" parent="q1trLhBGMm-AM65xYkC9-14" vertex="1">
-          <mxGeometry y="30" width="260" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-1" value="Driades" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" vertex="1" parent="1">
           <mxGeometry x="810" y="1480" width="260" height="150" as="geometry" />
@@ -264,14 +246,8 @@
         <mxCell id="lDPJUMEbkOL5Li80b-ym-7" value="" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" vertex="1" parent="1">
           <mxGeometry x="1654" y="1480" width="260" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="lDPJUMEbkOL5Li80b-ym-8" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;shadow=0;glass=0;sketch=0;fontColor=#000000;" vertex="1" parent="lDPJUMEbkOL5Li80b-ym-7">
-          <mxGeometry y="30" width="260" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-9" value="" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" vertex="1" parent="1">
           <mxGeometry x="1937.5" y="1480" width="260" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="lDPJUMEbkOL5Li80b-ym-10" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;shadow=0;glass=0;sketch=0;fontColor=#000000;" vertex="1" parent="lDPJUMEbkOL5Li80b-ym-9">
-          <mxGeometry y="30" width="260" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
