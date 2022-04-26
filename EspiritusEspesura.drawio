@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T17:32:14.879Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="ehEsYWQBF0Q551dG9xNH" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T17:39:26.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="iTRbSXhO5Pw0FTpKIVaH" version="17.4.6" type="github">
   <diagram id="0hyukC75Gv5yu3Hbwg-q" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -130,10 +130,10 @@
           <mxGeometry y="30" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-67" value="Joven Oso" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1990" y="1230" width="190" height="180" as="geometry" />
+          <mxGeometry x="1990" y="1230" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="JnjtK-0AS2ZwmPKG2imy-68" value="Vaga por toda la Espesura. Su &#xa;cuerpo está hcehco con piedras&#xa;volcánicas, que aumentan de &#xa;temperatura cuando lo desea.&#xa;L" style="align=left;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="JnjtK-0AS2ZwmPKG2imy-67" vertex="1">
-          <mxGeometry y="30" width="190" height="150" as="geometry" />
+        <mxCell id="JnjtK-0AS2ZwmPKG2imy-68" value="Vaga por toda la Espesura. Su &#xa;cuerpo está hcehco con piedras&#xa;volcánicas, que aumentan de &#xa;temperatura cuando lo desea.&#xa;Cuando se enfurece, las uniones&#xa;entre las piedras de su cuerpo&#xa;se llenan de lava." style="align=left;strokeColor=#b85450;fillColor=#f8cecc;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;rounded=1;" parent="JnjtK-0AS2ZwmPKG2imy-67" vertex="1">
+          <mxGeometry y="30" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-72" value="Zorro Tenaz" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=18;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="2220" y="1230" width="190" height="70" as="geometry" />
