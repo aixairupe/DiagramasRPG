@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T15:15:36.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="THHBeT5Idd3ULfh2mXDq" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T15:58:37.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="HQwcOs8tfHUsJcpuzj6O" version="17.4.6" type="github">
   <diagram id="0hyukC75Gv5yu3Hbwg-q" name="Page-1">
     <mxGraphModel dx="1778" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -219,8 +219,8 @@
         <mxCell id="q1trLhBGMm-AM65xYkC9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JnjtK-0AS2ZwmPKG2imy-81" target="JnjtK-0AS2ZwmPKG2imy-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="q1trLhBGMm-AM65xYkC9-13" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;Nivel 6: Entidades Menores&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1480" width="480" height="180" as="geometry" />
+        <mxCell id="q1trLhBGMm-AM65xYkC9-13" value="&lt;h1&gt;&lt;font color=&quot;#000000&quot;&gt;Nivel 6: Entidades Menores&lt;br&gt;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 22px&quot;&gt;Aquí se agrupan diversos tipos, cada cual con una función específica que dinamisa el microsistema metafísico de la Espesura.&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;glass=0;sketch=0;fontColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="10" y="1481" width="480" height="180" as="geometry" />
         </mxCell>
         <mxCell id="q1trLhBGMm-AM65xYkC9-14" value="Faes" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" parent="1" vertex="1">
           <mxGeometry x="520" y="1480" width="260" height="150" as="geometry" />
