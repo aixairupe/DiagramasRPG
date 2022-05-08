@@ -1,35 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-05-08T20:21:57.259Z" agent="5.0 (Windows)" etag="vcc3TiJ7M50ln2afj3dH" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-08T20:24:02.656Z" agent="5.0 (Windows)" etag="uXf2gq8mRzHM45D4uX8J" version="18.0.2" type="github">
   <diagram id="jBvDyXc2lhlii-HncfpI" name="Page-1">
     <mxGraphModel dx="931" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GO8P-UeP-CnJSBiqcdUs-1" value="CARTA DE CRIATURA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="349" y="210" width="130" height="190" as="geometry" />
+          <mxGeometry x="348" y="460" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GO8P-UeP-CnJSBiqcdUs-3" value="PIERNA IZQUIERDA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="320" width="130" height="190" as="geometry" />
+          <mxGeometry x="189" y="570" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GO8P-UeP-CnJSBiqcdUs-4" value="BRAZO IZQUIERDO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="90" width="130" height="190" as="geometry" />
+          <mxGeometry x="189" y="340" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GO8P-UeP-CnJSBiqcdUs-5" value="ARMA MANO IZQUIERDA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="320" width="130" height="190" as="geometry" />
+          <mxGeometry x="39" y="460" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GO8P-UeP-CnJSBiqcdUs-6" value="CABEZA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="90" width="130" height="190" as="geometry" />
+          <mxGeometry x="348" y="250" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GO8P-UeP-CnJSBiqcdUs-7" value="ARMA MANO DERECHA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="320" width="130" height="190" as="geometry" />
+          <mxGeometry x="659" y="460" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GO8P-UeP-CnJSBiqcdUs-8" value="TRONCO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="90" width="130" height="190" as="geometry" />
+          <mxGeometry x="349" y="670" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GO8P-UeP-CnJSBiqcdUs-9" value="PIERNA DERECHA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="320" width="130" height="190" as="geometry" />
+          <mxGeometry x="509" y="570" width="130" height="190" as="geometry" />
         </mxCell>
         <mxCell id="GO8P-UeP-CnJSBiqcdUs-10" value="BRAZO DERECHO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="90" width="130" height="190" as="geometry" />
+          <mxGeometry x="509" y="340" width="130" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
