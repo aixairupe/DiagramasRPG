@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T17:55:59.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ss58hNvHHftR93BDs1MN" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T17:58:58.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="PsxZyAh1l1PLq6NzA4jL" version="18.0.3" type="github">
   <diagram id="WVTnFstVwrAJHJPmP9Rb" name="Página-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,10 +52,16 @@
           <mxGeometry x="368.5" y="62.5" width="103" height="35" as="geometry" />
         </mxCell>
         <mxCell id="wUyzn4P1_LpUjs0QKvRm-56" value="&lt;u&gt;Ejemplos&lt;/u&gt;:&amp;nbsp;&lt;br&gt;viejo montañez, &lt;br&gt;diosa del espejismo, guardián de cripta, leon de circo, etc." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=default;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="60" y="390" width="190" height="60" as="geometry" />
+          <mxGeometry x="60" y="420" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wUyzn4P1_LpUjs0QKvRm-60" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;labelBorderColor=default;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="560" y="250" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wUyzn4P1_LpUjs0QKvRm-64" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;labelBorderColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="580" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="wUyzn4P1_LpUjs0QKvRm-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;labelBorderColor=default;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="460" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
