@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T18:25:25.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="2WZ3PiLtLH2YegKq9H0i" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T18:25:50.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="XfmQoTgft19yZlfuaBBM" version="18.0.3" type="github">
   <diagram id="WVTnFstVwrAJHJPmP9Rb" name="Página-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -71,10 +71,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wUyzn4P1_LpUjs0QKvRm-68" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Habilidades&lt;/font&gt;&lt;/b&gt;: elije, según el concepto planteado, cuatro o cinco cosas en las que el personaje es bueno." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=17;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="60" y="490" width="210" height="70" as="geometry" />
+          <mxGeometry x="50" y="490" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="wUyzn4P1_LpUjs0QKvRm-69" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Debilidades&lt;/font&gt;&lt;/b&gt;: determina ahora, según el concepto también, cuatro o cinco cosas que son una limitación para el personaje." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=17;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="60" y="600" width="200" height="90" as="geometry" />
+          <mxGeometry x="50" y="600" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="wUyzn4P1_LpUjs0QKvRm-73" value="Composición de un" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Comic Sans MS;fontSize=29;fontColor=#4C0099;" vertex="1" parent="1">
           <mxGeometry x="254" y="10" width="320" height="30" as="geometry" />
@@ -92,10 +92,10 @@
           <mxGeometry x="40" y="860" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wUyzn4P1_LpUjs0QKvRm-77" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;labelBorderColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="520" width="20" height="120" as="geometry" />
+          <mxGeometry x="40" y="520" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wUyzn4P1_LpUjs0QKvRm-78" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;labelBorderColor=default;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="50" y="410" width="20" height="110" as="geometry" />
+          <mxGeometry x="40" y="410" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="wUyzn4P1_LpUjs0QKvRm-79" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Habilidades&lt;/font&gt;&lt;/b&gt;:&lt;br&gt;Ilusiones con agua&lt;br&gt;Resistencia al Calor&lt;br&gt;Inmortalidad&lt;br&gt;Astucia divina&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBorderColor=none;fontSize=17;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="10" y="910" width="210" height="70" as="geometry" />
