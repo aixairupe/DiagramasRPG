@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-19T06:44:57.052Z" agent="5.0 (X11)" etag="6UOXboOGq6T8MtEDxVax" version="20.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-19T07:15:30.692Z" agent="5.0 (X11)" etag="R6QJZPrC1F-PntTFoKg0" version="20.1.1" type="github">
   <diagram id="0hyukC75Gv5yu3Hbwg-q" name="Page-1">
     <mxGraphModel dx="1134" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,8 +179,8 @@
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-91" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="1670.0000000000005" as="sourcePoint" />
-            <mxPoint x="2470" y="1670" as="targetPoint" />
+            <mxPoint x="11" y="1713.5000000000005" as="sourcePoint" />
+            <mxPoint x="2471" y="1713.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JnjtK-0AS2ZwmPKG2imy-92" value="Espíritu Interventor" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=22;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;html=0;fillColor=#990000;fontColor=#FFFFFF;" parent="1" vertex="1">
@@ -223,39 +223,39 @@
           <mxGeometry x="10" y="1481" width="480" height="180" as="geometry" />
         </mxCell>
         <mxCell id="q1trLhBGMm-AM65xYkC9-14" value="Faes" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1476" width="260" height="190" as="geometry" />
+          <mxGeometry x="520" y="1476" width="320" height="204" as="geometry" />
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-13" value="&lt;h6&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Se alimentan de los excesos de Efimeria (energía de tipo emocional) que se acumulan en lugares. Las Faes del Miedo, por ejemplo, se agrupan en torno a sementerios o cerca de la guarida de un temible depredador; y su estética está poblada de objetos de hueso. En la Espesura conviven varios tipos.&lt;/font&gt;&lt;/span&gt;&lt;/h6&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-40;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=22;verticalAlign=top;horizontal=1;align=left;" parent="q1trLhBGMm-AM65xYkC9-14" vertex="1">
-          <mxGeometry y="30" width="260" height="160" as="geometry" />
+          <mxGeometry y="30" width="320" height="174" as="geometry" />
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-1" value="Driades" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" parent="1" vertex="1">
-          <mxGeometry x="810" y="1480" width="260" height="150" as="geometry" />
+          <mxGeometry x="915" y="1481" width="305" height="150" as="geometry" />
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-2" value="Cuando un árbol anciano muere, su&#xa;alma asciende y se transmuta en &#xa;una Driade. Se diferencian según el &#xa;árbol que hayan sido en su anterior&#xa;vida, siguiendo la paleta de colores y&#xa;exhibiendo idénticas hojas.  " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;shadow=0;glass=0;sketch=0;fontColor=#000000;" parent="lDPJUMEbkOL5Li80b-ym-1" vertex="1">
-          <mxGeometry y="30" width="260" height="120" as="geometry" />
+          <mxGeometry y="30" width="305" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-3" value="Fatuos" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="1480" width="260" height="150" as="geometry">
+          <mxGeometry x="1250" y="1480" width="299" height="150" as="geometry">
             <mxRectangle x="1090" y="1480" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-4" value="Cuando alguien extraviado en la&#xa;Espesura muere, su alma se conver-&#xa;te en un Fatuo. Son pequeñas llamas&#xa;resplandescientes. Pueden guiar a &#xa;los perdidos o hacer que se pierdan&#xa;aun más." style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=15;verticalAlign=top;resizable=0;rotatable=0;part=1;shadow=0;glass=0;sketch=0;fontColor=#000000;" parent="lDPJUMEbkOL5Li80b-ym-3" vertex="1">
-          <mxGeometry y="30" width="260" height="120" as="geometry" />
+          <mxGeometry y="30" width="299" height="120" as="geometry" />
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-7" value="" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="1480" width="260" height="150" as="geometry" />
+          <mxGeometry x="1630" y="1476" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-9" value="" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;glass=0;sketch=0;fontColor=#000000;fillColor=#00994D;" parent="1" vertex="1">
           <mxGeometry x="1937.5" y="1480" width="260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-14" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="1890.0000000000005" as="sourcePoint" />
-            <mxPoint x="2470" y="1890" as="targetPoint" />
+            <mxPoint x="11" y="2000.0000000000005" as="sourcePoint" />
+            <mxPoint x="2471" y="2000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="lDPJUMEbkOL5Li80b-ym-15" value="&lt;h1 style=&quot;font-size: 22px&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Nivel 7: Enviados&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 22px&quot;&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;Son un tipo muy particular de Entidades Menores, que están al servicio de la Muerte. Por correlación, en el microsistema metafísico de la Espesura, se encuentran bajo el control de el Espíritu de la Renovación.&amp;nbsp;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="10" y="1680" width="490" height="280" as="geometry" />
+          <mxGeometry x="5" y="1716" width="490" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
