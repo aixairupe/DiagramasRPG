@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-24T22:56:52.459Z" agent="5.0 (X11)" etag="Rr6tP-IQOabsXa0FdQqc" version="20.2.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-24T23:11:12.468Z" agent="5.0 (X11)" etag="TCGSS70Ah7ko_7zdNGOt" version="20.2.0" type="github" pages="2">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1122" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#09555B" math="0" shadow="0">
       <root>
@@ -7,16 +7,16 @@
         <mxCell id="2c924340bb9dbf6c-2" value="RPG" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B1DDF0;fontColor=#182E3E;strokeColor=#BAC8D3;" parent="1" vertex="1">
           <mxGeometry x="300" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-3" value="PLATAFORMERO" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B1DDF0;fontColor=#182E3E;strokeColor=#BAC8D3;" parent="1" vertex="1">
+        <mxCell id="2c924340bb9dbf6c-3" value="PLATAFORMERO 2D" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B1DDF0;fontColor=#182E3E;strokeColor=#BAC8D3;" parent="1" vertex="1">
           <mxGeometry x="650" y="110" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-4" value="JUEGO" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
           <mxGeometry x="500" y="210" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-5" value="PUZZLES" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B1DDF0;fontColor=#182E3E;strokeColor=#BAC8D3;" parent="1" vertex="1">
-          <mxGeometry x="520" y="380" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-6" value="&lt;span&gt;Sub-node 4&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+        <mxCell id="2c924340bb9dbf6c-6" value="GENERO DE LA HISTORIA" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
           <mxGeometry x="750" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-7" value="ELEMENTOS PRINCIPALES" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="2c924340bb9dbf6c-11" value="&lt;span&gt;Topic 7&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
           <mxGeometry x="570" y="60" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-12" value="&lt;span&gt;Topic 21&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+        <mxCell id="2c924340bb9dbf6c-12" value="Aventura" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
           <mxGeometry x="910" y="520" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-13" value="&lt;span&gt;Topic 22&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
@@ -49,7 +49,7 @@
         <mxCell id="2c924340bb9dbf6c-19" value="Topic 1" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
           <mxGeometry x="700" y="220" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-22" value="&lt;span&gt;Topic 20&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
+        <mxCell id="2c924340bb9dbf6c-22" value="Misterio" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
           <mxGeometry x="810" y="560" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-27" value="relation" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#EEEEEE;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=#FFFFFF;" parent="1" source="2c924340bb9dbf6c-2" edge="1">
@@ -73,7 +73,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-31" value="relation" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#EEEEEE;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=#FFFFFF;" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="460" y="200" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-32" value="relation" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#EEEEEE;strokeWidth=1;fontFamily=Verdana;fontSize=12;fontColor=#FFFFFF;" parent="1" source="2c924340bb9dbf6c-4" target="2c924340bb9dbf6c-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -127,7 +129,7 @@
           <mxGeometry x="250" y="270" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-58" value="&lt;span&gt;Topic 19&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
-          <mxGeometry x="540" y="560" width="100" height="20" as="geometry" />
+          <mxGeometry x="510" y="580" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-59" value="&lt;div&gt;Portal&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" parent="1" vertex="1">
           <mxGeometry x="50" y="450" width="100" height="20" as="geometry" />
@@ -186,7 +188,7 @@
           <mxGeometry x="460" y="70" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ggbTlN6hoU04J2VuWVo-14" value="PJ &quot;Lara Croft&quot;-&lt;br&gt;Investigación de Riesgo&lt;br&gt;Dif Media (puzzles y algo de acción)" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="10" y="130" width="225" height="50" as="geometry" />
+          <mxGeometry x="10" y="130" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3ggbTlN6hoU04J2VuWVo-16" value="PJ &quot;Indiana Jones&quot;-&lt;br&gt;Investigación de Alto Riesgo&lt;br&gt;Dif Alta (puzzles y mucha acción)" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="15" y="215" width="225" height="45" as="geometry" />
@@ -194,8 +196,8 @@
         <mxCell id="3ggbTlN6hoU04J2VuWVo-17" value="&lt;span&gt;Topic 12&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="1">
           <mxGeometry x="470" y="110" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3ggbTlN6hoU04J2VuWVo-18" value="PJ &quot;Milo Thatch&quot;- Investigativo&lt;br&gt;Dif Baja (full puzzles)" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="1">
-          <mxGeometry x="10" y="40" width="180" height="45" as="geometry" />
+        <mxCell id="3ggbTlN6hoU04J2VuWVo-18" value="PJ &quot;Milo Thatch&quot;- Investigación&lt;br&gt;Dif Baja (full puzzles)" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;arcSize=50;fillColor=#B1DDF0;strokeColor=#BAC8D3;fontColor=#182E3E;" vertex="1" parent="1">
+          <mxGeometry x="10" y="70" width="210" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
